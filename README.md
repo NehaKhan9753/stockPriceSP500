@@ -18,4 +18,4 @@ Improve the accuracy of the model
 
 
 Data
-We'll download all of the data during the project, using the yfinance package.
+download all of the data during the project, using the yfinance package.
